@@ -12,8 +12,8 @@ DISCONNECT_MESSAGE = "!DISCONNECT"
 
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-FROM_EMAIL = "cheamenghour20@gmail.com"
-PASSWORD = "tqfi lpdm jcva xvzx"
+FROM_EMAIL = "your email" #replace
+PASSWORD = "your app password" #replace
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server.bind(ADDR)
